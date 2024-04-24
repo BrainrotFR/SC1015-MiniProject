@@ -1,4 +1,4 @@
-![image](https://github.com/BrainrotFR/SC1015/assets/101879612/8996a428-9e15-4633-bbbf-c3ace99b5f55)# Welcome to our SC1015 repository 
+# Welcome to our SC1015 repository 
 SC1015 (Introduction to Data Science & Artificial Intelligence) Mini Project  
 # About
 This project uses the laptop price dataset from Kaggle to predict laptop prices based on their specificatons. For detailed walkthrough, please view the source code in the following order:
