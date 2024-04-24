@@ -35,11 +35,12 @@ The top 4 attributes that contributes to the increase of price.
  - Screen resolution: 0.39
  - Operating system: 0.29
 
-Linear regression: Better with only 4 attributes
-Keras: Better with only 4 attributes
-Random Forest Regression: Better with all attributes
-Keras: Better with only 4 attributes
-K Nearest Neighbour (KNN) Regression: Better with only 4 attributes
+How the attributes affect each model:
+- Linear regression: Better with only 4 attributes
+- Keras: Better with only 4 attributes
+- Random Forest Regression: Better with all attributes
+- Keras: Better with only 4 attributes
+- K Nearest Neighbour (KNN) Regression: Better with only 4 attributes
 
 Reasons why Random Forest Regression, Kera, and K Nearest Neighbour (KNN) is better than linear regression.
 
@@ -61,3 +62,9 @@ Reasons why Random Forest Regression, Kera, and K Nearest Neighbour (KNN) is bet
 * https://www.geeksforgeeks.org/random-forest-regression-in-python/
 * https://www.tensorflow.org/tutorials/keras/regression
 * https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
+* https://www.kaggle.com/code/sohaibanwaar1203/neural-network-keras-regression
+* https://harvard-iacs.github.io/2021-CS109A/lectures/lecture03/notebook-2/
+* https://www.kaggle.com/code/michau96/what-determines-price-of-a-laptop
+* https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+* https://aamir07.medium.com/knn-regression-with-python-c11cbc5aa9a8
+* https://bookdown.org/tpinto_home/Regression-and-Classification/k-nearest-neighbours-regression.html
