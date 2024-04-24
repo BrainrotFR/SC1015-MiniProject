@@ -34,11 +34,12 @@ The top 4 attributes that contributes to the increase of price.
  - GPU: 0.44
  - Screen resolution: 0.39
  - Operating system: 0.29
-- Linear regression: Better with only 4 attributes
-- Keras: Better with only 4 attributes
-- Random Forest Regression: Better with all attributes
-- Keras: Better with only 4 attributes
-- K Nearest Neighbour (KNN) Regression: Better with only 4 attributes
+
+Linear regression: Better with only 4 attributes
+Keras: Better with only 4 attributes
+Random Forest Regression: Better with all attributes
+Keras: Better with only 4 attributes
+K Nearest Neighbour (KNN) Regression: Better with only 4 attributes
 
 Reasons why Random Forest Regression, Kera, and K Nearest Neighbour (KNN) is better than linear regression.
 
@@ -55,3 +56,8 @@ Reasons why Random Forest Regression, Kera, and K Nearest Neighbour (KNN) is bet
 * Using Github to share and collaborate on code
 * Concepts and techniques to achieve better MSE
   * etc. Bagging, normalising data using Log function
+
+# Reference
+* https://www.geeksforgeeks.org/random-forest-regression-in-python/
+* https://www.tensorflow.org/tutorials/keras/regression
+* https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
