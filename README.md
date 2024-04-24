@@ -5,10 +5,10 @@ This project uses the laptop price dataset from Kaggle to predict laptop prices 
 
 1. [Data Extraction & Cleaning](https://github.com/BrainrotFR/SC1015/blob/main/data_extraction_cleaning.ipynb)
 3. [Data Visualisation](https://github.com/BrainrotFR/SC1015/blob/main/data_visualization.ipynb)
-4. Linear Regression 
-5. Neural Network
-6. Random Forest Regression
-7. K-Nearest Neighbour Regression
+4. [Linear Regression](https://github.com/BrainrotFR/SC1015/blob/main/linear_regression.ipynb) 
+5. [Neural Network](https://github.com/BrainrotFR/SC1015/blob/main/neural_network.ipynb)
+6. [Random Forest Regression](https://github.com/BrainrotFR/SC1015/blob/main/random_forest_regression.ipynb)
+7. [K-Nearest Neighbour Regression](https://github.com/BrainrotFR/SC1015/blob/main/knn_regression.ipynb)
 
 # Contributors
 - @BrainrotFR - Neural Network
