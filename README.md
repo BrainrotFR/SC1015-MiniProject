@@ -1,7 +1,7 @@
 # Welcome to our SC1015 repository 
 SC1015 (Introduction to Data Science & Artificial Intelligence) Mini Project  
 # About
-This project uses the laptop price dataset from Kaggle to predict laptop prices based on their specificatons.For detailed walkthrough, please view the source code in the following order:
+This project uses the laptop price dataset from Kaggle to predict laptop prices based on their specificatons. For detailed walkthrough, please view the source code in the following order:
 
 1. Data Extraction & Cleaning
 3. Data Visualisation
