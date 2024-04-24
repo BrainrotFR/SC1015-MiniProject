@@ -16,7 +16,7 @@ This project uses the laptop price dataset from Kaggle to predict laptop prices 
 - @uwubrain - K-Nearest Neighbour
 - @everyone - Data Extraction & Cleaning, Data Visualisation, Linear Regression
 
-  # Problem Definition
+# Problem Definition
   * What attributes affect the laptop's prices the most?
   * Can we predict the price of a laptop given those attributes?
 
@@ -29,7 +29,8 @@ This project uses the laptop price dataset from Kaggle to predict laptop prices 
 # What did we learn from this project?
 * Lower MSE does not necessarily lead to better predictions
 * Neural Network using Keras and Tensorflow
-  * Normalising using Log function
 * Random forest Regression
 * KNN regression
-  * Bagging
+* Using Github to share and collaborate on code
+* Concepts and techniques to achieve better MSE
+  * etc. Bagging, normalising data using Log function
