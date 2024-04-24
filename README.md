@@ -27,8 +27,9 @@ This project uses the laptop price dataset from Kaggle to predict laptop prices 
  4. KNN Regression
 
 # Conclusion:
-- Apple is not the most expensive brand. Its Razer. 
-- The top 4 attributes that contributes to the increase of price.
+Apple is not the most expensive brand. Its Razer. 
+
+The top 4 attributes that contributes to the increase of price.
  - Ram: 0.74
  - GPU: 0.44
  - Screen resolution: 0.39
