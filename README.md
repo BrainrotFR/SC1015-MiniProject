@@ -26,6 +26,26 @@ This project uses the laptop price dataset from Kaggle to predict laptop prices 
  3. Random Forest Regression
  4. KNN Regression
 
+# Conclusion:
+- Apple is not the most expensive brand. Its Razer. 
+- The top 4 attributes that contributes to the increase of price.
+ - Ram: 0.74
+ - GPU: 0.44
+ - Screen resolution: 0.39
+ - Operating system: 0.29
+- Linear regression: Better with only 4 attributes
+- Keras: Better with only 4 attributes
+- Random Forest Regression: Better with all attributes
+- Keras: Better with only 4 attributes
+- K Nearest Neighbour (KNN) Regression: Better with only 4 attributes
+
+Reasons why Random Forest Regression, Kera, and K Nearest Neighbour (KNN) is better than linear regression.
+
+- Found out that KNN would be a better linear regression for this dataset and would recommend these to the companies as it can help them with pricing strategies to maintain its competitive prices.
+- Recommend companies to use the top 4 variables to accurately predict the price prediction.
+
+- A lower MSE does not necessarily lead to better predictions.For example, by using log function, even though the MSE got lower, it also magnify the  differences between small values which may amplify the impact of outliers, leading to a worse prediction.
+
 # What did we learn from this project?
 * Lower MSE does not necessarily lead to better predictions
 * Neural Network using Keras and Tensorflow
