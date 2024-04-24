@@ -3,8 +3,8 @@ SC1015 (Introduction to Data Science & Artificial Intelligence) Mini Project
 # About
 This project uses the laptop price dataset from Kaggle to predict laptop prices based on their specificatons. For detailed walkthrough, please view the source code in the following order:
 
-1. [Data Extraction & Cleaning](https://github.com/BrainrotFR/SC1015/blob/198a9c33a95c8d920e060676d0f5b62d77ff8ca7/data_extraction_cleaning.ipynb)
-3. Data Visualisation
+1. [Data Extraction & Cleaning](https://github.com/BrainrotFR/SC1015/blob/main/data_extraction_cleaning.ipynb)
+3. [Data Visualisation](https://github.com/BrainrotFR/SC1015/blob/main/data_visualization.ipynb)
 4. Linear Regression 
 5. Neural Network
 6. Random Forest Regression
