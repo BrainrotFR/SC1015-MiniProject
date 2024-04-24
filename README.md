@@ -1,3 +1,4 @@
-# SC1015
+# Welcome to our SC1015 repository 
 SC1015 mini project  
-Torturing my smol brain
+#About
+This project uses the laptop price dataset to predict laptop prices. 
