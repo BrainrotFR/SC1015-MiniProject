@@ -13,9 +13,9 @@ This project uses the laptop price dataset from Kaggle to predict laptop prices 
 We have also included a copy of our [slides](https://github.com/BrainrotFR/SC1015-MiniProject/blob/main/sc1015_grp6_slides.pptx).
 
 # Contributors
-- @BrainrotFR - Neural Network
-- @JmeMei - Random Forest Regression
-- @uwubrain - K-Nearest Neighbour
+- @BrainrotFR (Hui Wen) - Neural Network
+- @JmeMei (Jamie) - Random Forest Regression
+- @uwubrain (Rachel) - K-Nearest Neighbour
 - @everyone - Data Extraction & Cleaning, Data Visualisation, Linear Regression
 
 # Problem Definition
